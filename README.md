@@ -1,9 +1,17 @@
 ## Hi, I'm Rey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%">
+![Static Badge](https://img.shields.io/badge/GitHub-black?logo=github&link=https%3A%2F%2Fgithub.com%2Fberay31)
+![Static Badge](https://img.shields.io/badge/LeetCode-grey?logo=leetcode&link=https%3A%2F%2Fleetcode.com%2Fu%2Fberayfun%2F)
+![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fberay%2F)
+![Static Badge](https://img.shields.io/badge/Whatsapp-white?logo=whatsapp&link=https%3A%2F%2Fwa.me%2F6282216210443)
+![Static Badge](https://img.shields.io/badge/Instagram-white?logo=instagram&link=https%3A%2F%2Fwww.instagram.com%2Fberayfun%2F)
+
 👋 Hey there! I'm a creative problem-solver with a knack for crafting solutions that make an impact. From front-end wizardry to cloud cost-saving sorcery, I've done it all! 💻✨
 
 At GoPay, I helped launch a cloud cost dashboard that saved the company up to 30% in cloud expenses — now that's what I call **budget magic!** 🧙‍♂️💸 I’ve also dabbled in **machine learning**, developing a category auto-inferencing system to give our internal ticketing system a boost. 🎟️🤖
 
 When I’m not slashing cloud costs, you can find me optimizing cron jobs like a concurrency programming ninja (90% faster, anyone? ⚡). I love solving problems and have been around LeetCode, ranking in the top 6% globally. Always up for a challenge, always learning, and always aiming to build things that matter.
+
+Let’s build something cool together! 🚀
 
 ## ⚡️ A Few Quick Facts
 - 🔭 &nbsp;I’m currently on a learning journey as an Infrastructure Engineer at [@GoPay](https://www.linkedin.com/company/gotogroup) 🚀
@@ -65,10 +73,3 @@ When I’m not slashing cloud costs, you can find me optimizing cron jobs like a
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="50" height="50" />
 </p>
-
-🔗 &nbsp;**Connect with me**
-- GitHub - https://github.com/BeRay31
-- LinkedIn - https://www.linkedin.com/in/beray/
-- Leetcode - https://leetcode.com/u/berayfun/
-
-Let’s build something cool together! 🚀
