@@ -9,7 +9,7 @@
 
 At GoPay, I helped launch a cloud cost dashboard that saved the company up to 30% in cloud expenses — now that's what I call **budget magic!** 🧙‍♂️💸 I’ve also dabbled in **machine learning**, developing a category auto-inferencing system to give our internal ticketing system a boost. 🎟️🤖
 
-When I’m not slashing cloud costs, you can find me optimizing cron jobs like a concurrency programming ninja (90% faster, anyone? ⚡). I love solving problems and have been around LeetCode, ranking in the top 6% globally. Always up for a challenge, always learning, and always aiming to build things that matter.
+When I’m not slashing cloud costs, you can find me optimizing cron jobs like a concurrency programming ninja (90% faster, anyone? ⚡). I love solving problems and have been around LeetCode, ranking in the top 5% globally. Always up for a challenge, always learning, and always aiming to build things that matter.
 
 Let’s build something cool together! 🚀
 
